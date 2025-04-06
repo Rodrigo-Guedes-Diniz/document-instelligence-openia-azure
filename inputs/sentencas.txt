@@ -1,0 +1,3 @@
+O cliente solicitou o reembolso ontem.
+O produto foi entregue com atraso.
+A experiência do usuário foi positiva.
